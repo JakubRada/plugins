@@ -32,6 +32,6 @@ dependency_overrides:
   google_maps_flutter_platform_interface:
     # path: "../google_maps_flutter_platform_interface-2.2.1/"
     git:
-      url: https://github.com/Petr26/flutter_plugins.git
+      url: https://github.com/JakubRada/plugins.git
       path: packages/google_maps_flutter/google_maps_flutter_platform_interface
       ref: main
